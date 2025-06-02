@@ -80,6 +80,3 @@ weighted avg       0.81      0.81      0.81       100
 ## Citation
 This implementation is based on the methodology described in:
 - *Forensic Techniques for Classifying Scanner, Computer Generated and Digital Camera Images* (please refer to the original paper for full citation details).
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
